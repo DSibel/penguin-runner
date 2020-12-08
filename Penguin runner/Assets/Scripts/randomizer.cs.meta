@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f394883c1236d5e409065981c398b52f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bSpherePrefab: {fileID: 7058077295158911452, guid: c2a2dd5977094ab46a787767b53d6001,
+      type: 3}
+  - gSpherePrefab: {fileID: 8991675005481202141, guid: 92367ffe6647ace45b4a324330b14075,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
